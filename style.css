@@ -1,0 +1,15 @@
+body::before {
+  display: block;
+  content: "";
+  height: 60px;
+}
+
+@media (min-width: 786px) {
+  .input-news {
+    width: 50%;
+  }
+}
+
+.image {
+  width: 450px;
+}
